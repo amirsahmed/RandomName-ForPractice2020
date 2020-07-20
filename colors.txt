@@ -5,3 +5,5 @@ changes for conflict practice  from Intellij
 changes for conflict practice2  from Intellij
 changes for confilict practice from git
 changes for confilict practice2 from git
+violet
+apricot
