@@ -2,3 +2,4 @@ red
 this is change number 1
 changes form inellij
 changes for conflict practice  from Intellij
+changes for conflict practice2  from Intellij
