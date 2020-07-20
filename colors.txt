@@ -1,4 +1,5 @@
 red
 this is change number 1
 changes form inellij
-changes for conflict practice  from Intellij
+changes for confilict practice from git
+changes for confilict practice2 from git
