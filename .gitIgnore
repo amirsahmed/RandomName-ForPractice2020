@@ -2,4 +2,6 @@
 target
 *.iml
 *.log
+pom.xml
+
 
